@@ -1,5 +1,7 @@
 # Get-Your-Car-
 Hey there and welcome !
+
+
 Few words about this project : so initially i wanted to create a simple website where we could easily look up for electrical vehicules and their electric charging station depending on the location of the user
 But more than that i've decided to make it more diverse and made it like a "go-to" website, a website where people could lean on when they are in need of that website.
 Since it would be too long to put one by one vehicules, i'm currently working on making the user a part of the project for the vehicules research and their electrical stations.
